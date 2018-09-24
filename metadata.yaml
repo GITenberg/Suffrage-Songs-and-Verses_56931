@@ -1,5 +1,8 @@
 _repo: Suffrage-Songs-and-Verses_56931
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56931-h/images/cover.jpg
 creator:
   author:
     agent_name: Gilman, Charlotte Perkins
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/27
     wikipedia: http://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56931#Suffrage-Songs-and-Verses
 gutenberg_issued: '2018-04-06'
 gutenberg_type: Text
 identifiers:
